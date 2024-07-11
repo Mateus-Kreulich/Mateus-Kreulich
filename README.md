@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Pascalzim-4FC08D?style=for-the-badge&logoColor=white" alt="Pascalzim" />
+    <img src="https://img.shields.io/badge/Pascal-4FC08D?style=for-the-badge&logoColor=white" alt="Pascal" />
     <img src="https://img.shields.io/badge/Enforce_Script-000000?style=for-the-badge&logoColor=white" alt="Enforce Script" />
     <img src="https://img.shields.io/badge/Papyrus-005BA1?style=for-the-badge&logoColor=white" alt="Papyrus" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
