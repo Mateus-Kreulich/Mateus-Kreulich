@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/Mateus-Kreulich">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Kreulich&layout=compact&bg_color=0d1117&title_color=00fff&text_color=00fff" alt="Mateus's Most Used Languages" style="border-radius: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Kreulich&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ffff&icon_color=ff00ff&border_color=ff0000&langs_count=10&theme=dark&custom_title=Mateus's%20Most%20Used%20Languages" alt="Mateus's Most Used Languages" style="border-radius: 10px;" />
   </a>
 </div>
 
