@@ -10,9 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mateus-Kreulich&theme=highcontrast&hide_border=&border_radius=4&locale=pt_BR&hide_total_contributions=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mateus-Kreulich&theme=black-ice&hide_border=falso&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
